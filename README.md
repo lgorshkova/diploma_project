@@ -6,15 +6,15 @@ This repository contains supporting materials for the bachelor diploma project t
 
 **"Analysis of SEO Effectiveness in E-Commerce Product Listings: A Data-Driven Study and Conceptual Prototype for Automatic Keyword Extraction"**
 
-## 📌 Project Description
+## Project Description
 
 The project investigates how keyword optimization influences product performance on e-commerce platforms like Amazon. It combines a quantitative analysis of real-world product listings with the development of an AI-assisted prototype for automated keyword extraction.
 
 ---
 
-## 📊 Contents of the Repository
+## Contents of the Repository
 
-### 🔍 Data and Analysis
+### Data and Analysis
 - **dataset_seo.csv**  
   Cleaned dataset containing product listing information, optimization scores, keyword coverage, and performance metrics (monthly sales, revenue, rankings).
 
